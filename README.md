@@ -1,5 +1,7 @@
 **Global Tech Gadget Consumption: Trends & Insights**
+
 **Project Overview**
+
 This Power BI project explores global trends in tech gadget consumption, providing data-driven insights into how different countries are embracing modern technologies over time. The interactive dashboard highlights correlations between gadget usage, consumer behavior, and environmental impact.
 
 **Tool Used**
